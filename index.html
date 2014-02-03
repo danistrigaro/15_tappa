@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>15_tappa - LeafLet Preview</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/layout.css" /> 
+    <link rel="stylesheet" href="css/leaflet.css" />        
+    <link rel="stylesheet" href="css/jquery.mobile-1.4.0.min.css" /> 
+    <script type="text/javascript" src="phonegap.js"></script>       
+    <script src="js/jquery/jquery-1.10.2.min.js"></script>    
+    <script src="js/jquery/jquery.mobile-1.4.0.min.js"></script> 
+    <script src="js/leaflet/leaflet.js"></script> 
+    <script src="js/leaflet/leaflet-gpx/gpx.js"></script>      
+    <script>
+        $(document).ready(function () {      
+	         
+	         //map
+            var map = L.map('map').setView([45.02, 7.91083], 13);	         
+	         
+            L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: 'Map data &copy; <a href="http://www.osm.org">OpenStreetMap</a>'
+            }).addTo(map);	         
+	         
+	         var mytile =L.tileLayer('15_tappa/{z}/{x}/{y}.png', {
+                maxZoom: 16,
+                minZoom: 12,
+                tms: true,
+                attribution: 'Gis4maps.it'
+            }).addTo(map);            
+
+            //add marker
+            
+            var pos = L.marker([0, 0]).bindPopup("I'm here");
+
+            var end = L.marker([45.00834, 7.82894]).addTo(map);
+	         end.bindPopup("Fine").openPopup();
+	         var marker = L.marker([45.0913266, 7.902039]).addTo(map);
+	         marker.bindPopup("<b>I conti della Serva.<BR> <a href=http:/www.icontidellaserva.it/‎><b>Link</a>").openPopup();
+	         var start = L.marker([45.00815, 7.98845]).addTo(map);
+	         start.bindPopup("<b>Inizio").openPopup();
+
+            //add gpx delle tappe
+            var gpx = 'tappe/Quindicesima.gpx';
+            new L.GPX(gpx, {async: true}).on('loaded', function(e) {
+                //map.fitBounds(e.target.getBounds());
+            }).addTo(map);                          
+        
+            //function for position
+            function UpMarkLatLon(position) {
+                var newLatLng = new L.LatLng(position.coords.latitude , position.coords.longitude);
+                pos.setLatLng(newLatLng).addTo(map); 
+                map.setView(newLatLng, 18);                                                        
+            }
+            
+            function watchPosErr() {
+	             alert("Have you enable your GPS?");
+            }     
+            
+            // section to get position
+            function watchPos() {             
+                watchGeoID = navigator.geolocation.watchPosition(
+                    UpMarkLatLon, 
+                    watchPosErr,
+                    {enableHighAccuracy: true, timeout: 5000}
+                );
+            }            
+                
+            $("#Geoloc").on("click",function(){
+                if (document.getElementById("Geoloc").value == 'Start') {
+                    watchPos();
+                    document.getElementById("Geoloc").value = 'Stop';                    
+                }
+                else {
+                    navigator.geolocation.clearWatch(watchGeoID);
+                    document.getElementById("Geoloc").value = 'Start';
+                }
+            });         
+        })
+    </script>    
+</head>
+<body>
+    <div id="container">
+        <div id="map"></div>
+    </div>
+	 <div id="button-group" data-role="controlgroup" data-type="vertical" >
+	     <button id='Geoloc' data-role="button" data-icon="navigation" data-iconpos="notext" rel="external" value='Start'></button>
+    </div>             
+</body>
+</html>

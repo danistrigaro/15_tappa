@@ -1,0 +1,30 @@
+html,body {
+   height: 100%;
+   margin: 0;
+   padding: 0;   
+   }
+
+#basemapslidercontainer {
+    position: absolute;
+    top: 3%;
+    right: 2%;
+    z-index: 50;
+    height: 100%;
+    }
+
+#basemapslider {
+    margin: 14px;
+    height: 15%;
+    width:20%;
+    }
+
+#map {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    }
+
+#button-group {
+    position: absolute;	
+    right: 0;
+    }

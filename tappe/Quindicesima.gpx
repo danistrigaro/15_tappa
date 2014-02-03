@@ -1,0 +1,3719 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2012-10-28T10:04:20Z</time>
+    <bounds maxlat="45.057388544082642" maxlon="7.992628728970885" minlat="45.008271932601929" minlon="7.829111041501164" />
+  </metadata>
+
+  <wpt lat="45.008292971178889" lon="7.829111041501164">
+    <time>2012-10-28T08:52:03Z</time>
+    <name>Via Vittorio Emanuele II, 80 – 10023 CHIERI (TO)</name>
+    <cmt>Latitude: 45.00829297 Longitude : 7.829111042</cmt>
+    <desc>Latitude: 45.00829297 Longitude : 7.829111042</desc>
+    <sym>Waypoint</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Quindicesima bis2.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <rte>
+    <name>Quindicesima bis 1</name>
+    <extensions>
+      <gpxx:RouteExtension>
+        <gpxx:IsAutoNamed>false</gpxx:IsAutoNamed>
+        <gpxx:DisplayColor>Cyan</gpxx:DisplayColor>
+      </gpxx:RouteExtension>
+    </extensions>
+    <rtept lat="45.008271932601929" lon="7.988541126251221">
+      <ele>251</ele>
+      <time>2012-10-15T07:05:51Z</time>
+      <name>Colle Don Bosco1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.009004762396216" lon="7.989801010116935">
+      <ele>254.46875</ele>
+      <time>2012-10-15T07:05:56Z</time>
+      <name>Strada Privata</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>1200BE5FFD00030090000D200500B50176AE</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.009462917223573" lon="7.990410458296537">
+      <ele>255.21484375</ele>
+      <time>2012-10-15T07:06:03Z</time>
+      <name>Strada Del Papa21</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.010487018153071" lon="7.990697287023068">
+      <ele>251.62890625</ele>
+      <time>2012-10-15T07:06:06Z</time>
+      <name>Strada Del Papa4</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BE5FFD000A0090000D200500DB0181AE</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.011012479662895" lon="7.990500060841441">
+      <ele>251.203125</ele>
+      <time>2012-10-15T07:06:08Z</time>
+      <name>Strada Del Papa5</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BE5FFD000A0090000D200500EC0185AE</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.011944295838475" lon="7.990184482187033">
+      <ele>251.94921875</ele>
+      <time>2012-10-15T07:09:25Z</time>
+      <name>Strada Del Papa6</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BE5FFD00120092000D2005002C0291AE</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.012727500870824" lon="7.990904655307531">
+      <ele>250.1328125</ele>
+      <time>2012-10-15T07:09:31Z</time>
+      <name>Strada Del Papa7</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BE5FFD00120092000D2005005102B3AE</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.013290010392666" lon="7.991971336305141">
+      <ele>250.84375</ele>
+      <time>2012-10-15T07:09:33Z</time>
+      <name>Strada Del Papa8</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BE5FFD00120092000D2005006B02E4AE</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.014914590865374" lon="7.992628728970885">
+      <ele>261.859375</ele>
+      <time>2012-10-15T07:09:36Z</time>
+      <name>Strada Del Papa9</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BE5FFD00120092000D200500B70203AF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.016195178031921" lon="7.992618083953857">
+      <ele>264.82421875</ele>
+      <time>2012-10-15T07:09:47Z</time>
+      <name>Strada Del Papa e Frazione Morialdo2</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0000BE5FFD00120092000F200500F20203AF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.016870927065611" lon="7.992178536951542">
+      <ele>256.89453125</ele>
+      <time>2012-10-15T07:09:50Z</time>
+      <name>Strada Del Papa10</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BE5FFD00120092000D2005001203EEAE</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.017775250598788" lon="7.991173882037401">
+      <ele>259</ele>
+      <time>2012-10-15T07:09:54Z</time>
+      <name>Strada Del Papa31</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.017992258071899" lon="7.990724444389343">
+      <ele>263.32421875</ele>
+      <time>2012-10-15T07:09:55Z</time>
+      <name>Strada Del Papa e Frazione Morialdo3</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0000BE5FFD000B0090000F2005004603AAAE</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.019027506932616" lon="7.98808473162353">
+      <ele>271.02734375</ele>
+      <time>2012-10-15T07:09:57Z</time>
+      <name>Strada Del Papa11</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BE5FFD000B0090000D20050076032FAE</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.019586328417063" lon="7.987690614536405">
+      <ele>272.15234375</ele>
+      <time>2012-10-15T07:10:00Z</time>
+      <name>Strada Del Papa12</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BE5FFD000B0090000D20050090031DAE</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.020862556993961" lon="7.988089341670275">
+      <ele>260.578125</ele>
+      <time>2012-10-15T07:10:02Z</time>
+      <name>Strada Del Papa13</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BE5FFD00020091000D200500CC032FAE</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.021350551396608" lon="7.988067716360092">
+      <ele>252.72265625</ele>
+      <time>2012-10-15T07:10:08Z</time>
+      <name>Strada Del Papa14</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BE5FFD00020091000D200500E3032EAE</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.022146580740809" lon="7.987765213474631">
+      <ele>248</ele>
+      <time>2012-10-15T07:10:09Z</time>
+      <name>Strada Del Papa15</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BE5FFD00020091000D200500080420AE</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.022450089454651" lon="7.987924218177795">
+      <ele>248.59375</ele>
+      <time>2012-10-15T07:10:11Z</time>
+      <name>Strada Del Papa e Frazione Morialdo11</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.022714287042618" lon="7.987490957602859">
+      <ele>247.203125</ele>
+      <time>2012-10-15T07:10:13Z</time>
+      <name>Frazione Morialdo8</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BE5FFD00040091000D200500220414AE</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.023407554253936" lon="7.986963149160147">
+      <ele>249.109375</ele>
+      <time>2012-10-15T07:10:15Z</time>
+      <name>Frazione Morialdo21</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.022831549867988" lon="7.985829161480069">
+      <ele>239.3984375</ele>
+      <time>2012-10-15T07:10:19Z</time>
+      <name>Frazione Morialdo31</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.023014191538095" lon="7.985384250059724">
+      <ele>237.76953125</ele>
+      <time>2012-10-15T07:10:20Z</time>
+      <name>Frazione Morialdo9</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BE5FFD00040091000D2005003004B1AD</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.0233403313905" lon="7.984559806063771">
+      <ele>230.296875</ele>
+      <time>2012-10-15T07:10:22Z</time>
+      <name>Frazione Morialdo41</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.022160410881042" lon="7.982141375541687">
+      <ele>224</ele>
+      <time>2012-10-15T07:10:24Z</time>
+      <name>Frazione Morialdo51</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.023361705243587" lon="7.982364669442177">
+      <ele>224</ele>
+      <time>2012-10-15T07:10:27Z</time>
+      <name>Frazione Morialdo10</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BE5FFD000A0092000D200500400425AD</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.024669282138348" lon="7.98214640468359">
+      <ele>224.1015625</ele>
+      <time>2012-10-15T07:10:28Z</time>
+      <name>Frazione Morialdo11</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BE5FFD000A0092000D2005007D041AAD</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.025889351963997" lon="7.981659332290292">
+      <ele>224.01953125</ele>
+      <time>2012-10-15T07:10:31Z</time>
+      <name>Frazione Morialdo12</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BE5FFD000A0092000D200500B60404AD</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.026591420173645" lon="7.981647849082947">
+      <ele>224</ele>
+      <time>2012-10-15T07:10:35Z</time>
+      <name>Frazione Morialdo61</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.027357190847397" lon="7.982057053595781">
+      <ele>226.0234375</ele>
+      <time>2012-10-15T07:10:37Z</time>
+      <name>Frazione Morialdo13</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BE5FFD000A0092000D200500FA0416AD</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.027884244918823" lon="7.982704639434815">
+      <ele>224.84765625</ele>
+      <time>2012-10-15T07:10:43Z</time>
+      <name>Frazione Morialdo e Strada1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.028377771377563" lon="7.982710003852844">
+      <ele>225.1796875</ele>
+      <time>2012-10-15T07:10:44Z</time>
+      <name>Frazione Morialdo e Strada2</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0000BE5FFD00080092000F2005002A0535AD</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.028802063316107" lon="7.982821818441153">
+      <ele>223.05859375</ele>
+      <time>2012-10-15T07:10:46Z</time>
+      <name>Strada30</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BE5FFD00490092000D2005003E053AAD</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.029534893110394" lon="7.982519399374723">
+      <ele>218</ele>
+      <time>2012-10-15T07:10:47Z</time>
+      <name>Strada33</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BE5FFD00490092000D20050060052CAD</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.030112070962787" lon="7.982120923697949">
+      <ele>219.32421875</ele>
+      <time>2012-10-15T07:10:49Z</time>
+      <name>Strada34</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BE5FFD00490092000D2005007B0519AD</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.030787736177444" lon="7.981677604839206">
+      <ele>216.8046875</ele>
+      <time>2012-10-15T07:10:50Z</time>
+      <name>Strada35</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BE5FFD00490092000D2005009A0505AD</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.031183362007141" lon="7.9813152551651">
+      <ele>222.66015625</ele>
+      <time>2012-10-15T07:10:51Z</time>
+      <name>Strada36</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BE5FFD00490092000D200500AD05F4AC</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.031735897064209" lon="7.980977296829224">
+      <ele>225.2890625</ele>
+      <time>2012-10-15T07:10:53Z</time>
+      <name>Strada e Frazione Morialdo1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.031495839357376" lon="7.980464491993189">
+      <ele>222.4453125</ele>
+      <time>2012-10-15T07:10:59Z</time>
+      <name>Frazione Morialdo14</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BE5FFD000A009D000D200500BB05CCAC</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.031494414433837" lon="7.980092335492373">
+      <ele>225.1796875</ele>
+      <time>2012-10-15T07:11:00Z</time>
+      <name>Frazione Morialdo71</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.032023312523961" lon="7.979475427418947">
+      <ele>250.671875</ele>
+      <time>2012-10-15T07:18:08Z</time>
+      <name>Boschi Di Latifoglie4</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>8FA8BD5FFD000180B20603200500D4059EAC</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.032279379665852" lon="7.978489547967911">
+      <ele>251.98046875</ele>
+      <time>2012-10-15T07:18:10Z</time>
+      <name>Boschi Di Latifoglie5</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>8FA8BD5FFD000180B20603200500E00570AC</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.032246019691229" lon="7.977493610233069">
+      <ele>259.99440000000004</ele>
+      <time>2012-10-15T07:18:11Z</time>
+      <name>260 m altezza5</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>2000BD5FFD000100B3060D200500DE0542AC</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.032465290278196" lon="7.97598578967154">
+      <ele>276.2734375</ele>
+      <time>2012-10-15T07:18:13Z</time>
+      <name>Sistemi Colturali Complessi41</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.032858652994037" lon="7.973857959732413">
+      <ele>252.48828125</ele>
+      <time>2012-10-15T07:18:47Z</time>
+      <name>Boschi Di Latifoglie11</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.033178757876158" lon="7.972068004310131">
+      <ele>249</ele>
+      <time>2012-10-15T07:18:49Z</time>
+      <name>Boschi Di Latifoglie21</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.03289544954896" lon="7.970438059419394">
+      <ele>250.94140625</ele>
+      <time>2012-10-15T07:19:01Z</time>
+      <name>Strada113</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.032635862007737" lon="7.969697518274188">
+      <ele>252</ele>
+      <time>2012-10-15T07:19:04Z</time>
+      <name>Strada37</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD007F00B2060D200500F005D6AA</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.032497644424438" lon="7.96882688999176">
+      <ele>253.91796875</ele>
+      <time>2012-10-15T07:19:05Z</time>
+      <name>Strada e Via San Giovanni</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0000BD5FFD007F00B2060F200500EA05AEAA</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.032669305801392" lon="7.968698143959045">
+      <ele>254.12890625</ele>
+      <time>2012-10-15T07:19:07Z</time>
+      <name>Via San Giovanni1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD008000B2060D200500F205A8AA</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.032669305801392" lon="7.968698143959045">
+      <ele>254.12890625</ele>
+      <time>2012-10-15T07:19:09Z</time>
+      <name>Via San Giovanni11</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.034779449924827" lon="7.966950600966811">
+      <ele>251.046875</ele>
+      <time>2012-10-15T07:19:10Z</time>
+      <name>Via San Giovanni2</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD002500B2060D200500540656AA</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.037105679512024" lon="7.966922521591187">
+      <ele>249</ele>
+      <time>2012-10-15T07:19:20Z</time>
+      <name>Via San Giovanni e Via Don Josè Molas1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.038464134559035" lon="7.966624544933438">
+      <ele>247</ele>
+      <time>2012-10-15T07:19:22Z</time>
+      <name>Via San Giovanni3</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD002500B2060D200500000747AA</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.039562582969666" lon="7.966069579124451">
+      <ele>247.0703125</ele>
+      <time>2012-10-15T07:19:23Z</time>
+      <name>Cantina Sociale Del Freisa1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.039970278739929" lon="7.965817451477051">
+      <ele>247.28515625</ele>
+      <time>2012-10-15T07:19:31Z</time>
+      <name>Viale Europa e Via Monferrato e Piazza Dante</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0000BD5FFD002200B2060F200500460722AA</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.040984153747559" lon="7.9643315076828">
+      <ele>245.125</ele>
+      <time>2012-10-15T07:19:34Z</time>
+      <name>Via Roma e Via San Cafasso e Piazza Dante e Viale Regina Margherita</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0000BD5FFD001700B2060F2005007607DCA9</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.041590332984924" lon="7.963221073150635">
+      <ele>240.5546875</ele>
+      <time>2012-10-15T07:19:36Z</time>
+      <name>Via Umberto I e Via Roma e Via Guglielmo Marconi1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.041128993034363" lon="7.961708307266235">
+      <ele>242.140625</ele>
+      <time>2012-10-15T07:19:42Z</time>
+      <name>Ristorante Nuovo Monferrato</name>
+      <cmt>Ristorante Nuovo Monferrato
+
+Via Guglielmo Marconi 16
+
+14022, Castelnuovo Don Bosco, Piemonte, Italia
+
++(39)-(011)-9876284</cmt>
+      <desc>Ristorante Nuovo Monferrato
+
+Via Guglielmo Marconi 16
+
+14022, Castelnuovo Don Bosco, Piemonte, Italia
+
++(39)-(011)-9876284</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>2A00BD5FFD000D00B2061400000000000000</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.040493058040738" lon="7.959746271371841">
+      <ele>246</ele>
+      <time>2012-10-15T07:19:44Z</time>
+      <name>Via Guglielmo Marconi</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD00140079060D2005005F0707A9</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.040372610092163" lon="7.959374785423279">
+      <ele>246.10546875</ele>
+      <time>2012-10-15T07:19:46Z</time>
+      <name>Via Guglielmo Marconi e Strada1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.041341222822666" lon="7.958696857094765">
+      <ele>246</ele>
+      <time>2012-10-15T07:19:50Z</time>
+      <name>Via Generale Giuseppe Garibaldi</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD002F0079060D2005008607D6A8</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.042153345420957" lon="7.957975342869759">
+      <ele>247.45703125</ele>
+      <time>2012-10-15T07:21:42Z</time>
+      <name>Via Generale Giuseppe Garibaldi1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD002F0079060D200500AC07B4A8</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.041479524224997" lon="7.957090884447098">
+      <ele>248.87890625</ele>
+      <time>2012-10-15T07:21:57Z</time>
+      <name>Tessuto Urbano Discontinuo</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>8F08BD5FFD0005807906032005008D078BA8</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.040888683870435" lon="7.956955432891846">
+      <ele>259.99440000000004</ele>
+      <time>2012-10-15T07:22:04Z</time>
+      <name>260 m altezza6</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>2000BD5FFD0002008A060D200500710785A8</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.040819281712174" lon="7.955746510997415">
+      <ele>277.375</ele>
+      <time>2012-10-15T07:22:09Z</time>
+      <name>Prati Stabili</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>8F80BD5FFD0006808C06032005006E074CA8</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.040711490437388" lon="7.954957857728005">
+      <ele>280</ele>
+      <time>2012-10-15T07:22:14Z</time>
+      <name>Prati Stabili1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>8F80BD5FFD0006808C0603200500690727A8</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.042258286848664" lon="7.953505693003535">
+      <ele>291.6171875</ele>
+      <time>2012-10-15T07:23:38Z</time>
+      <name>Via Lovencito3</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD0003008A060D200500B107E4A7</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.042171701788902" lon="7.953410809859633">
+      <ele>291.95703125</ele>
+      <time>2012-10-15T07:23:39Z</time>
+      <name>Via Lovencito4</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD0003008A060D200500AD07DFA7</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.04213348031044" lon="7.953044855967164">
+      <ele>292.41015625</ele>
+      <time>2012-10-15T07:23:41Z</time>
+      <name>Via Lovencito5</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD0003008A060D200500AB07CEA7</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.041876826435328" lon="7.952693989500403">
+      <ele>285.08984375</ele>
+      <time>2012-10-15T07:23:42Z</time>
+      <name>Via Lovencito6</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD0003008A060D2005009F07BEA7</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.041619082912803" lon="7.952514197677374">
+      <ele>276.55859375</ele>
+      <time>2012-10-15T07:23:43Z</time>
+      <name>Via Lovencito7</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD0003008A060D2005009307B6A7</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.041347006335855" lon="7.952297776937485">
+      <ele>265.08984375</ele>
+      <time>2012-10-15T07:23:45Z</time>
+      <name>Via Lovencito8</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD0003008A060D2005008607ABA7</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.041359663009644" lon="7.951966524124146">
+      <ele>255.8125</ele>
+      <time>2012-10-15T07:23:46Z</time>
+      <name>Via Lovencito9</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD0003008A060D20050087079CA7</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.04161698743701" lon="7.951541058719158">
+      <ele>261.49609375</ele>
+      <time>2012-10-15T07:23:51Z</time>
+      <name>Via Lovencito10</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD0003008A060D200500930788A7</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.041691586375237" lon="7.950608655810356">
+      <ele>259</ele>
+      <time>2012-10-15T07:23:53Z</time>
+      <name>Via Lovencito21</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.041603660210967" lon="7.950459541752935">
+      <ele>254.25390625</ele>
+      <time>2012-10-15T07:23:54Z</time>
+      <name>Via Lovencito11</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD0003008A060D200500920756A7</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.041517242789268" lon="7.950543025508523">
+      <ele>252.3203125</ele>
+      <time>2012-10-15T07:23:55Z</time>
+      <name>Via Lovencito12</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD0003008A060D2005008E075AA7</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.041479859501123" lon="7.95097092166543">
+      <ele>251.83203125</ele>
+      <time>2012-10-15T07:23:57Z</time>
+      <name>Via Lovencito13</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD0003008A060D2005008D076EA7</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.041417246684432" lon="7.951192203909159">
+      <ele>249.87109375</ele>
+      <time>2012-10-15T07:24:02Z</time>
+      <name>Via Lovencito14</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD0003008A060D2005008A0778A7</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.040685841813684" lon="7.952067861333489">
+      <ele>247.81640625</ele>
+      <time>2012-10-15T07:24:05Z</time>
+      <name>Via Lovencito15</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD0003008A060D2005006807A1A7</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.040103634819388" lon="7.952936310321093">
+      <ele>248.1953125</ele>
+      <time>2012-10-15T07:24:07Z</time>
+      <name>Via Lovencito16</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD0003008A060D2005004C07C9A7</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.039425287395716" lon="7.953948257490993">
+      <ele>250.4765625</ele>
+      <time>2012-10-15T07:24:11Z</time>
+      <name>Via Lovencito17</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD0003008A060D2005002D07F8A7</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.03894567489624" lon="7.954326868057251">
+      <ele>247.97265625</ele>
+      <time>2012-10-15T07:24:13Z</time>
+      <name>Via Roma e Via Castelnuovo e Via Lovencito1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.038765966892242" lon="7.953586662188172">
+      <ele>246.23828125</ele>
+      <time>2012-10-15T07:24:15Z</time>
+      <name>Via Roma</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD0009008A060D2005000E07E8A7</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.038631521165371" lon="7.953032953664661">
+      <ele>247.5859375</ele>
+      <time>2012-10-15T07:24:16Z</time>
+      <name>Via Roma1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD0009008A060D2005000807CEA7</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.03856941126287" lon="7.952537667006254">
+      <ele>248.48828125</ele>
+      <time>2012-10-15T07:24:18Z</time>
+      <name>Via Roma2</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD0009008A060D2005000507B7A7</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.0387042760849" lon="7.951835263520479">
+      <ele>250.0703125</ele>
+      <time>2012-10-15T07:24:19Z</time>
+      <name>Via Roma3</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD0009008A060D2005000B0796A7</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.039053047075868" lon="7.950977794826031">
+      <ele>252.1171875</ele>
+      <time>2012-10-15T07:24:23Z</time>
+      <name>Via Roma4</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD0009008A060D2005001C076EA7</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.039284471422434" lon="7.950404640287161">
+      <ele>249.796875</ele>
+      <time>2012-10-15T07:24:25Z</time>
+      <name>Via Roma5</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD0009008A060D200500260753A7</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.039331996813416" lon="7.949797455221415">
+      <ele>251.7890625</ele>
+      <time>2012-10-15T07:24:28Z</time>
+      <name>Via Roma6</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD0009008A060D200500290737A7</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.039141057059169" lon="7.948640333488584">
+      <ele>259.18359375</ele>
+      <time>2012-10-15T07:24:30Z</time>
+      <name>Via Roma7</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD0009008A060D200500200701A7</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.039115073159337" lon="7.94846422970295">
+      <ele>264.9453125</ele>
+      <time>2012-10-15T07:24:32Z</time>
+      <name>Via Roma8</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD0009008A060D2005001E07F9A6</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.039182212203741" lon="7.948064496740699">
+      <ele>275.7578125</ele>
+      <time>2012-10-15T07:24:33Z</time>
+      <name>Via Roma9</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD0009008A060D2005002207E6A6</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.039288327097893" lon="7.94761011376977">
+      <ele>283.6953125</ele>
+      <time>2012-10-15T07:24:34Z</time>
+      <name>Via Roma10</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD0009008A060D2005002607D1A6</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.039283633232117" lon="7.947142068296671">
+      <ele>296.91015625</ele>
+      <time>2012-10-15T07:24:39Z</time>
+      <name>Via Roma11</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD0009008A060D2005002607BBA6</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.039411708712578" lon="7.946696486324072">
+      <ele>298.19140625</ele>
+      <time>2012-10-15T07:24:40Z</time>
+      <name>Via Roma12</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD0009008A060D2005002C07A6A6</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.039904145523906" lon="7.946452992036939">
+      <ele>290.4296875</ele>
+      <time>2012-10-15T07:24:41Z</time>
+      <name>Via Roma13</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD0009008A060D20050043079BA6</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.040020486339927" lon="7.946266578510404">
+      <ele>290.00390625</ele>
+      <time>2012-10-15T07:24:43Z</time>
+      <name>Via Roma14</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD0009008A060D200500490792A6</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.039973547682166" lon="7.945760898292065">
+      <ele>300.05859375</ele>
+      <time>2012-10-15T07:25:11Z</time>
+      <name>Via Roma15</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD0009008A060D20050046077BA6</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.040023922920227" lon="7.94485330581665">
+      <ele>304.9765625</ele>
+      <time>2012-10-15T07:25:12Z</time>
+      <name>Via Roma16</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD0009008A060D200500490751A6</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.039935996755958" lon="7.944609727710486">
+      <ele>307.9296875</ele>
+      <time>2012-10-15T07:25:16Z</time>
+      <name>Via Roma17</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD0009008A060D200500450745A6</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.039744973182678" lon="7.944437311962247">
+      <ele>311.25390625</ele>
+      <time>2012-10-15T07:25:18Z</time>
+      <name>Via Roma18</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD0009008A060D2005003C073DA6</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.039315819740295" lon="7.944220304489136">
+      <ele>316.5078125</ele>
+      <time>2012-10-15T07:25:19Z</time>
+      <name>Via Roma e Via Ignazio Matta</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0000BD5FFD0009008A060F200500280733A6</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.03919780254364" lon="7.9438716173172">
+      <ele>315.78515625</ele>
+      <time>2012-10-15T07:25:24Z</time>
+      <name>Via Roma e Via Buttigliera</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0000BD5FFD0009008A060F200500220723A6</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.039037372916937" lon="7.943128393962979">
+      <ele>314.4921875</ele>
+      <time>2012-10-15T07:26:58Z</time>
+      <name>Via Roma19</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD0009008A060D2005001B0700A6</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.039133680984378" lon="7.942764451727271">
+      <ele>312.80859375</ele>
+      <time>2012-10-15T07:26:59Z</time>
+      <name>Via Roma20</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD0009008A060D2005001F07EFA5</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.039122700691223" lon="7.942267656326294">
+      <ele>315.25390625</ele>
+      <time>2012-10-15T07:27:00Z</time>
+      <name>Via Roma e Vicolo Piave e Via San Rocco1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.039021363481879" lon="7.941994154825807">
+      <ele>317.03515625</ele>
+      <time>2012-10-15T07:27:02Z</time>
+      <name>Via Roma21</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD00070088060D2005001A07CBA5</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.039103087037802" lon="7.940010661259294">
+      <ele>313.96484375</ele>
+      <time>2012-10-15T07:27:08Z</time>
+      <name>Via Roma22</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD00070088060D2005001E076FA5</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.039122700691223" lon="7.939698100090027">
+      <ele>313.1015625</ele>
+      <time>2012-10-15T07:27:15Z</time>
+      <name>Via Roma e Via Madonna Della Neve e Via San Giovanni</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0000BD5FFD000A008A060F2005001F0760A5</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.039862990379333" lon="7.939762473106384">
+      <ele>304.30859375</ele>
+      <time>2012-10-15T07:27:17Z</time>
+      <name>Via San Giovanni e Vicolo Piave1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.040056025609374" lon="7.939065182581544">
+      <ele>309.7578125</ele>
+      <time>2012-10-15T07:27:18Z</time>
+      <name>Via San Giovanni4</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00190088060D2005004A0743A5</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.040895724669099" lon="7.939468016847968">
+      <ele>310.51953125</ele>
+      <time>2012-10-15T07:30:35Z</time>
+      <name>Boschi Misti</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>8FB8BD5FFD0007808A0603200500710756A5</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.041423952206969" lon="7.939735651016235">
+      <ele>310.02734375</ele>
+      <time>2012-10-15T07:30:37Z</time>
+      <name>Boschi Misti1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>8FB8BD5FFD0007808A06032005008A0762A5</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.042134486138821" lon="7.939668763428927">
+      <ele>312.8125</ele>
+      <time>2012-10-15T07:30:39Z</time>
+      <name>Boschi Misti3</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>8FB8BD5FFD0007808A0603200500AB075FA5</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.042916601523757" lon="7.939434573054314">
+      <ele>317.33203125</ele>
+      <time>2012-10-15T07:30:53Z</time>
+      <name>Sistemi Colturali Complessi6</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>8F90BD5FFD0003808A0603200500D00754A5</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.043221116065979" lon="7.939215302467346">
+      <ele>319.39453125</ele>
+      <time>2012-10-15T07:30:54Z</time>
+      <name>Strada Provinciale Cinzano-Riva e Strada Comunale Moriondo Moncucco e Sentiero</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0000BD5FFD00130078060F200500DE074AA5</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.043589500710368" lon="7.939479667693377">
+      <ele>321.203125</ele>
+      <time>2012-10-15T07:30:59Z</time>
+      <name>Sentiero466</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>1100BD5FFD000A0078060D200500EF0756A5</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.044481921941042" lon="7.939847214147449">
+      <ele>325.75</ele>
+      <time>2012-10-15T07:31:01Z</time>
+      <name>Sentiero467</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>1100BD5FFD000A0078060D200500190867A5</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.045148702338338" lon="7.940059863030911">
+      <ele>329.3515625</ele>
+      <time>2012-10-15T07:31:12Z</time>
+      <name>Sentiero468</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>1100BD5FFD000A0078060D200500380871A5</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.045781536027789" lon="7.940189531072974">
+      <ele>332</ele>
+      <time>2012-10-15T07:31:14Z</time>
+      <name>Sentiero469</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>1100BD5FFD000A0078060D200500550877A5</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.046282187104225" lon="7.940499074757099">
+      <ele>328.22265625</ele>
+      <time>2012-10-15T07:33:02Z</time>
+      <name>Sentiero470</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>1100BD5FFD000A0078060D2005006C0886A5</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.046965144574642" lon="7.939944779500365">
+      <ele>314.79296875</ele>
+      <time>2012-10-15T07:33:04Z</time>
+      <name>Sistemi Colturali Complessi7</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>8F90BD5FFD0001808106032005008C086CA5</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.048304656520486" lon="7.939401045441628">
+      <ele>327.06640625</ele>
+      <time>2012-10-15T07:33:21Z</time>
+      <name>Sistemi Colturali Complessi8</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>8F90BD5FFD000180810603200500CB0852A5</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.049128429964185" lon="7.93927556835115">
+      <ele>332.0625</ele>
+      <time>2012-10-15T07:33:23Z</time>
+      <name>Sistemi Colturali Complessi9</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>8F90BD5FFD000180810603200500F1084DA5</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.049992268905044" lon="7.939208680763841">
+      <ele>338.88671875</ele>
+      <time>2012-10-15T07:33:26Z</time>
+      <name>Sistemi Colturali Complessi10</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>8F90BD5FFD000180810603200500190954A5</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.050553437322378" lon="7.939463406801224">
+      <ele>345.52734375</ele>
+      <time>2012-10-15T07:33:55Z</time>
+      <name>Località Briano</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00100078060D200500330955A5</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.050634071230888" lon="7.938880193978548">
+      <ele>345.44921875</ele>
+      <time>2012-10-15T07:33:56Z</time>
+      <name>Località Briano1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00100078060D20050037093AA5</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.05067765712738" lon="7.937026619911194">
+      <ele>339.09375</ele>
+      <time>2012-10-15T07:33:58Z</time>
+      <name>Strada Provinciale Cinzano-Riva e Località Briano e Località Moglia1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.05167149938643" lon="7.937043383717537">
+      <ele>341.4140625</ele>
+      <time>2012-10-15T07:35:17Z</time>
+      <name>Strada Provinciale Cinzano-Riva</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD00070078060D2005006809E5A4</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.052592754364014" lon="7.937058806419373">
+      <ele>340.9453125</ele>
+      <time>2012-10-15T07:35:21Z</time>
+      <name>Strada Provinciale Cinzano-Riva e Strada</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0000BD5FFD00070078060F2005009309E5A4</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.05304261110723" lon="7.936981609091163">
+      <ele>340.86328125</ele>
+      <time>2012-10-15T07:35:24Z</time>
+      <name>Strada Provinciale Cinzano-Riva1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD00070078060D200500A709E2A4</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.05405799485743" lon="7.936548851430416">
+      <ele>340.41796875</ele>
+      <time>2012-10-15T07:35:25Z</time>
+      <name>Strada Provinciale Cinzano-Riva2</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD00070078060D200500D709CDA4</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.054636597633362" lon="7.936302423477173">
+      <ele>342.08203125</ele>
+      <time>2012-10-15T07:35:31Z</time>
+      <name>Strada Provinciale Cinzano-Riva e Località Moglia1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.054298471659422" lon="7.935077324509621">
+      <ele>339.09375</ele>
+      <time>2012-10-15T07:35:34Z</time>
+      <name>Località Moglia1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00230092060D200500E20989A4</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.054346080869436" lon="7.934066047891974">
+      <ele>343.8984375</ele>
+      <time>2012-10-15T07:35:36Z</time>
+      <name>Località Moglia2</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00230092060D200500E4095AA4</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.054219178855419" lon="7.933325674384832">
+      <ele>356.83203125</ele>
+      <time>2012-10-15T07:35:37Z</time>
+      <name>Località Moglia3</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00230092060D200500DE0937A4</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.054254718124866" lon="7.933051083236933">
+      <ele>358.578125</ele>
+      <time>2012-10-15T07:35:41Z</time>
+      <name>Località Moglia4</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00230092060D200500E0092AA4</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.054497122764587" lon="7.932724356651306">
+      <ele>355.73046875</ele>
+      <time>2012-10-15T07:35:44Z</time>
+      <name>Località Moglia5</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.054985284805298" lon="7.932472229003906">
+      <ele>352.47265625</ele>
+      <time>2012-10-15T07:35:51Z</time>
+      <name>Località Moglia e Strada</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0000BD5FFD00060092060F200500020A10A4</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.055006491020322" lon="7.931174794211984">
+      <ele>351.85546875</ele>
+      <time>2012-10-15T07:35:53Z</time>
+      <name>Strada38</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00070092060D200500030AD3A3</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.054413806647062" lon="7.929931674152613">
+      <ele>341.76171875</ele>
+      <time>2012-10-15T07:35:54Z</time>
+      <name>Strada39</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00070092060D200500E70999A3</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.053708050400019" lon="7.92840700596571">
+      <ele>327.37109375</ele>
+      <time>2012-10-15T07:35:59Z</time>
+      <name>Strada40</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00070092060D200500C60952A3</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.053501185029745" lon="7.928040381520987">
+      <ele>324.85546875</ele>
+      <time>2012-10-15T07:36:01Z</time>
+      <name>Strada43</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00070092060D200500BD0941A3</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.053023668006063" lon="7.927651964128017">
+      <ele>322.2421875</ele>
+      <time>2012-10-15T07:36:03Z</time>
+      <name>Strada211</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.052847731858492" lon="7.92743319645524">
+      <ele>319.37890625</ele>
+      <time>2012-10-15T07:36:05Z</time>
+      <name>Strada44</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00070092060D2005009E0925A3</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.0529043097049" lon="7.927201939746738">
+      <ele>318.40234375</ele>
+      <time>2012-10-15T07:36:06Z</time>
+      <name>Strada45</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00070092060D200500A1091AA3</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.05319457501173" lon="7.927114851772785">
+      <ele>318.32421875</ele>
+      <time>2012-10-15T07:36:07Z</time>
+      <name>Strada46</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00070092060D200500AF0916A3</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.053753396496177" lon="7.927076881751418">
+      <ele>317.57421875</ele>
+      <time>2012-10-15T07:36:08Z</time>
+      <name>Strada47</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00070092060D200500C90914A3</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.05419135093689" lon="7.92688250541687">
+      <ele>317</ele>
+      <time>2012-10-15T07:36:09Z</time>
+      <name>Strada48</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00070092060D200500DD090BA3</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.054397713392973" lon="7.926546223461628">
+      <ele>314.5625</ele>
+      <time>2012-10-15T07:36:11Z</time>
+      <name>Strada49</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00070092060D200500E709FBA2</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.054688565433025" lon="7.926031909883022">
+      <ele>314.96875</ele>
+      <time>2012-10-15T07:36:12Z</time>
+      <name>Strada50</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00070092060D200500F409E3A2</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.055298181250691" lon="7.925647515803576">
+      <ele>316.6171875</ele>
+      <time>2012-10-15T07:36:17Z</time>
+      <name>Strada53</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00070092060D200500110AD1A2</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.055902600288391" lon="7.925074696540833">
+      <ele>315.203125</ele>
+      <time>2012-10-15T07:36:19Z</time>
+      <name>Strada e Località Pettinazzo1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.055782571434975" lon="7.924197195097804">
+      <ele>312.7109375</ele>
+      <time>2012-10-15T07:36:25Z</time>
+      <name>Strada54</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00070092060D200500270A8EA2</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.055294828489423" lon="7.923525217920542">
+      <ele>315.82421875</ele>
+      <time>2012-10-15T07:36:27Z</time>
+      <name>Strada55</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00070092060D200500100A6FA2</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.054988469928503" lon="7.923178458586335">
+      <ele>315.609375</ele>
+      <time>2012-10-15T07:36:28Z</time>
+      <name>Strada56</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00070092060D200500020A5EA2</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.054659731686115" lon="7.923574838787317">
+      <ele>315.75</ele>
+      <time>2012-10-15T07:36:32Z</time>
+      <name>Strada57</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00070092060D200500F30971A2</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.053425244987011" lon="7.92436265386641">
+      <ele>313</ele>
+      <time>2012-10-15T07:36:34Z</time>
+      <name>Strada58</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00070092060D200500B90996A2</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.053003635257483" lon="7.924572788178921">
+      <ele>312.15625</ele>
+      <time>2012-10-15T07:36:36Z</time>
+      <name>Strada59</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00070092060D200500A6099FA2</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.052531817927957" lon="7.924493160098791">
+      <ele>312.921875</ele>
+      <time>2012-10-15T07:36:40Z</time>
+      <name>Strada60</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00070092060D20050090099CA2</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.050249006599188" lon="7.925139404833317">
+      <ele>312.40234375</ele>
+      <time>2012-10-15T07:36:42Z</time>
+      <name>Strada62</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00070092060D2005002509BAA2</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.049437051638961" lon="7.925051562488079">
+      <ele>314.3046875</ele>
+      <time>2012-10-15T07:36:44Z</time>
+      <name>Strada63</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00070092060D200500FF08B6A2</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.049197245389223" lon="7.92474034242332">
+      <ele>316.70703125</ele>
+      <time>2012-10-15T07:36:45Z</time>
+      <name>Strada64</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00070092060D200500F408A7A2</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.049235299229622" lon="7.924086973071098">
+      <ele>320.74609375</ele>
+      <time>2012-10-15T07:36:46Z</time>
+      <name>Strada65</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00070092060D200500F60889A2</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.049070343375206" lon="7.923197988420725">
+      <ele>326.69140625</ele>
+      <time>2012-10-15T07:36:47Z</time>
+      <name>Strada66</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00070092060D200500EE085FA2</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.047741560265422" lon="7.921308958902955">
+      <ele>331.53125</ele>
+      <time>2012-10-15T07:36:51Z</time>
+      <name>Strada67</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00070092060D200500B00807A2</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.047592781484127" lon="7.921164873987436">
+      <ele>332.0078125</ele>
+      <time>2012-10-15T07:36:52Z</time>
+      <name>Strada68</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00070092060D200500A90801A2</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.047271084040403" lon="7.92121097445488">
+      <ele>331.52734375</ele>
+      <time>2012-10-15T07:36:54Z</time>
+      <name>Strada69</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00070092060D2005009A0803A2</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.047003030776978" lon="7.920729517936707">
+      <ele>334.98046875</ele>
+      <time>2012-10-15T07:36:56Z</time>
+      <name>Strada e Via Sant'Anna2</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.047675929963589" lon="7.920061983168125">
+      <ele>338.29296875</ele>
+      <time>2012-10-15T07:36:59Z</time>
+      <name>Via Sant'Anna</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD000A0092060D200500AD08CDA1</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.048430133610964" lon="7.919073086231947">
+      <ele>346.3203125</ele>
+      <time>2012-10-15T07:37:00Z</time>
+      <name>Via Sant'Anna1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD000A0092060D200500D1089FA1</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.049400925636292" lon="7.918868064880371">
+      <ele>352.77734375</ele>
+      <time>2012-10-15T07:37:03Z</time>
+      <name>Strada e Via Sant'Anna11</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.050470624119043" lon="7.918423237279058">
+      <ele>352.0859375</ele>
+      <time>2012-10-15T07:37:06Z</time>
+      <name>Strada70</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00080092060D200500300981A1</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.051105972379446" lon="7.918354338034987">
+      <ele>351.01953125</ele>
+      <time>2012-10-15T07:37:08Z</time>
+      <name>Strada72</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00080092060D2005004D097EA1</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.051392382010818" lon="7.918059378862381">
+      <ele>346.84375</ele>
+      <time>2012-10-15T07:37:11Z</time>
+      <name>Strada73</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00080092060D2005005B0970A1</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.051910970360041" lon="7.917191516608">
+      <ele>345.60546875</ele>
+      <time>2012-10-15T07:37:13Z</time>
+      <name>Strada510</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.052157565951347" lon="7.916766805574298">
+      <ele>346.6015625</ele>
+      <time>2012-10-15T07:37:18Z</time>
+      <name>Strada74</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00080092060D2005007E0934A1</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.052378177642822" lon="7.914796471595764">
+      <ele>342.1640625</ele>
+      <time>2012-10-15T07:37:20Z</time>
+      <name>Strada Della Preta e Strada e Strada non asfaltata1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.052620666101575" lon="7.91438726708293">
+      <ele>340.3203125</ele>
+      <time>2012-10-15T07:37:24Z</time>
+      <name>Strada Della Preta2</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00020051060D2005009409C5A0</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.052575152367353" lon="7.913686204701662">
+      <ele>330.60546875</ele>
+      <time>2012-10-15T07:37:25Z</time>
+      <name>Strada Della Preta3</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00020051060D2005009209A4A0</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.052356719970703" lon="7.912972569465637">
+      <ele>323.01171875</ele>
+      <time>2012-10-15T07:37:26Z</time>
+      <name>Strada Della Preta4</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00020051060D200500880983A0</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.051497323438525" lon="7.912834268063307">
+      <ele>321.5625</ele>
+      <time>2012-10-15T07:37:27Z</time>
+      <name>Strada Della Preta5</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00020051060D2005005F097CA0</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.051203789189458" lon="7.912715496495366">
+      <ele>323.6796875</ele>
+      <time>2012-10-15T07:37:31Z</time>
+      <name>Strada Della Preta6</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00020051060D200500520977A0</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.050893072038889" lon="7.912165140733123">
+      <ele>321.5234375</ele>
+      <time>2012-10-15T07:37:33Z</time>
+      <name>Strada Della Preta7</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00020051060D20050043095DA0</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.05065611563623" lon="7.911777729168534">
+      <ele>320.27734375</ele>
+      <time>2012-10-15T07:37:34Z</time>
+      <name>Strada Della Preta8</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00020051060D20050038094BA0</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.050551341846585" lon="7.910979939624667">
+      <ele>314.9609375</ele>
+      <time>2012-10-15T07:37:35Z</time>
+      <name>Strada Della Preta9</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.050344560295343" lon="7.91061163879931">
+      <ele>313.5234375</ele>
+      <time>2012-10-15T07:37:36Z</time>
+      <name>Strada Della Preta10</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00020051060D2005002A0915A0</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.048069879412651" lon="7.910945657640696">
+      <ele>312.41796875</ele>
+      <time>2012-10-15T07:37:52Z</time>
+      <name>Strada Della Preta11</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00020051060D200500C00824A0</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.047832587733865" lon="7.911392915993929">
+      <ele>315.02734375</ele>
+      <time>2012-10-15T07:37:54Z</time>
+      <name>Strada Della Preta12</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.046663228422403" lon="7.911002989858389">
+      <ele>309.40234375</ele>
+      <time>2012-10-24T14:53:19Z</time>
+      <name>Strada Della Preta</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00020051060D2005007E0827A0</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.044798757880926" lon="7.911740429699421">
+      <ele>302.515625</ele>
+      <time>2012-10-24T14:53:26Z</time>
+      <name>Strada Della Preta1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00020051060D200500270849A0</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.043020872399211" lon="7.913391077890992">
+      <ele>297</ele>
+      <time>2012-10-24T14:53:31Z</time>
+      <name>Strada Della Preta13</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00020051060D200500D40796A0</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.042148232460022" lon="7.91440486907959">
+      <ele>297</ele>
+      <time>2012-10-24T14:54:01Z</time>
+      <name>Strada Della Preta e Via Broglia</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0000BD5FFD00020051060F200500AC07C6A0</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.041614975780249" lon="7.915070140734315">
+      <ele>297</ele>
+      <time>2012-10-24T14:54:03Z</time>
+      <name>Strada Della Preta14</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD000E0092060D2005009307E5A0</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.039525032043457" lon="7.914469242095947">
+      <ele>297</ele>
+      <time>2012-10-24T14:54:05Z</time>
+      <name>Via Borgo Valentino e Borgo Crociera e Strada Della Preta</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0000BD5FFD0005005B060F2005003207C9A0</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.038516353815794" lon="7.911077337339521">
+      <ele>297</ele>
+      <time>2012-10-24T14:54:10Z</time>
+      <name>Via Borgo Valentino</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD0005005B060D20050002072AA0</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.038189291954041" lon="7.906492352485657">
+      <ele>297</ele>
+      <time>2012-10-24T14:54:17Z</time>
+      <name>Strada Provinciale Arignano Moncucco e Via Borgo Valentino</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0000BD5FFD0003005B060F200500F306559F</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.038174455985427" lon="7.905207239091396">
+      <ele>299.21875</ele>
+      <time>2012-10-24T14:54:24Z</time>
+      <name>Via Tetti Chiaffredo e Via Della Valle11</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.037904977798462" lon="7.903773263096809">
+      <ele>297.16796875</ele>
+      <time>2012-10-15T07:48:54Z</time>
+      <name>Via Tetti Chiaffredo e Via Della Valle1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.037815123796463" lon="7.901801504194737">
+      <ele>298.015625</ele>
+      <time>2012-10-15T13:35:08Z</time>
+      <name>Via Tetti Chiaffredo1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD00040052060D2005004108F79E</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.037680342793465" lon="7.89911275729537">
+      <ele>298.05859375</ele>
+      <time>2012-10-15T13:35:10Z</time>
+      <name>Via Tetti Chiaffredo2</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD00040052060D2005006508CC9E</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.037545645609498" lon="7.897260440513492">
+      <ele>289.87109375</ele>
+      <time>2012-10-15T13:35:11Z</time>
+      <name>Via Tetti Chiaffredo3</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD00040052060D200500D408789E</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.03970155492425" lon="7.895766701549292">
+      <ele>287.80859375</ele>
+      <time>2012-10-15T13:35:13Z</time>
+      <name>Via Tetti Chiaffredo4</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD00040052060D2005000709579E</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.042037172242999" lon="7.895467970520258">
+      <ele>290.00390625</ele>
+      <time>2012-10-15T13:35:15Z</time>
+      <name>Via Tetti Chiaffredo5</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD00040052060D2005006009549E</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.044327862560749" lon="7.893675416707993">
+      <ele>289.1015625</ele>
+      <time>2012-10-15T13:35:16Z</time>
+      <name>Via Tetti Chiaffredo6</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD00040052060D200500AB09639E</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.046304231509566" lon="7.892719460651279">
+      <ele>294.1015625</ele>
+      <time>2012-10-15T13:35:18Z</time>
+      <name>Sp121 e Via Tetti Chiaffredo e Strada non asfaltata1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.048280516639352" lon="7.891643894836307">
+      <ele>291.5546875</ele>
+      <time>2012-10-15T13:35:20Z</time>
+      <name>Strada non asfaltata3</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0A00BD5FFD00020052060D200500B609FA9D</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.049448283389211" lon="7.891165958717465">
+      <ele>295.421875</ele>
+      <time>2012-10-15T13:35:21Z</time>
+      <name>Strada non asfaltata12</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.050975466147065" lon="7.890807464718819">
+      <ele>295.21484375</ele>
+      <time>2012-10-15T13:35:26Z</time>
+      <name>Strada e Strada non asfaltata</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0000BD5FFD003A0041060F200500170A959D</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.052008451893926" lon="7.89044888690114">
+      <ele>293.96875</ele>
+      <time>2012-10-15T13:35:37Z</time>
+      <name>Strada75</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD003B0041060D200500090A719D</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.053156018257141" lon="7.889594435691834">
+      <ele>295.84765625</ele>
+      <time>2012-10-15T13:35:48Z</time>
+      <name>Strada e Strada Del Lago</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0000BD5FFD003B0041060F200500AD09419C</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.053896307945251" lon="7.88769543170929">
+      <ele>293</ele>
+      <time>2012-10-15T13:35:49Z</time>
+      <name>Strada Del Lago2</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.052787130698562" lon="7.886527078226209">
+      <ele>289.85546875</ele>
+      <time>2012-10-15T13:42:39Z</time>
+      <name>Strada Del Lago4</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0A00BD5FFD000A0041060D2005009C09B29B</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.0530821736902" lon="7.881968496367335">
+      <ele>316.0390625</ele>
+      <time>2012-10-15T13:42:50Z</time>
+      <name>Sistemi Colturali Complessi14</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>8F90BD5FFD000280530603200500A909DE9A</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.053676450625062" lon="7.880404936149716">
+      <ele>315.7109375</ele>
+      <time>2012-10-15T13:42:52Z</time>
+      <name>Strada Fornaca</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD002F0053060D200500C509959A</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.054290425032377" lon="7.878911700099707">
+      <ele>326.5390625</ele>
+      <time>2012-10-15T13:42:57Z</time>
+      <name>Strada Fornaca1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD002F0053060D200500E2094F9A</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.054872632026672" lon="7.876414060592651">
+      <ele>356.33203125</ele>
+      <time>2012-10-15T13:42:59Z</time>
+      <name>Via Roma e Strada Camot1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.055552655830979" lon="7.875512167811394">
+      <ele>356.65234375</ele>
+      <time>2012-10-15T13:44:22Z</time>
+      <name>Strada79</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD002D0053060D2005001C0AB199</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.056482711806893" lon="7.874984694644809">
+      <ele>359.90234375</ele>
+      <time>2012-10-15T13:46:26Z</time>
+      <name>Via Roma23</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD00160053060D200500480A9899</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.056967185810208" lon="7.874409947544336">
+      <ele>358.35546875</ele>
+      <time>2012-10-15T13:46:28Z</time>
+      <name>Via Roma24</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD00160053060D2005005E0A7E99</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.057388544082642" lon="7.873340249061585">
+      <ele>362.6328125</ele>
+      <time>2012-10-15T13:46:29Z</time>
+      <name>Via Roma e Strada</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0000BD5FFD00160053060F200500720A4C99</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.057034492492676" lon="7.873608469963074">
+      <ele>356.49609375</ele>
+      <time>2012-10-15T13:46:34Z</time>
+      <name>Via Maresciallo Giardino e Strada Del Pozzetto</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0000BD5FFD00290053060F200500620A5899</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.056889653205872" lon="7.872004508972168">
+      <ele>334.98046875</ele>
+      <time>2012-10-15T13:46:37Z</time>
+      <name>Strada710</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.055696237832308" lon="7.870393842458725">
+      <ele>321.5625</ele>
+      <time>2012-10-15T13:46:39Z</time>
+      <name>Strada80</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD00030055060D200500230AC298</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.054041147232056" lon="7.869279384613037">
+      <ele>303.7421875</ele>
+      <time>2012-10-15T13:46:41Z</time>
+      <name>Strada83</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.052882684394717" lon="7.870488474145532">
+      <ele>302.2578125</ele>
+      <time>2012-10-15T13:48:20Z</time>
+      <name>Strada84</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD000B005A060D200500A009C798</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.050731049850583" lon="7.870778571814299">
+      <ele>296.06640625</ele>
+      <time>2012-10-15T13:48:21Z</time>
+      <name>Strada92</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.049964189529419" lon="7.871146202087402">
+      <ele>296.19921875</ele>
+      <time>2012-10-15T13:48:22Z</time>
+      <name>Strada85</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD000B005A060D2005001809E698</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.049470495432615" lon="7.870871275663376">
+      <ele>293.34375</ele>
+      <time>2012-10-15T13:48:23Z</time>
+      <name>Strada86</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD000B005A060D2005000109D998</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.048265429213643" lon="7.87101661786437">
+      <ele>291.98828125</ele>
+      <time>2012-10-15T13:48:28Z</time>
+      <name>Strada87</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD000B005A060D200500C908DF98</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.046012541279197" lon="7.872905479744077">
+      <ele>291.87890625</ele>
+      <time>2012-10-15T13:48:31Z</time>
+      <name>Strada88</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD000B005A060D20050060083799</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.04428444430232" lon="7.87317973561585">
+      <ele>292.71484375</ele>
+      <time>2012-10-15T13:48:32Z</time>
+      <name>Strada89</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD000B005A060D2005000F084499</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.043242573738098" lon="7.873774766921997">
+      <ele>290.40625</ele>
+      <time>2012-10-15T13:48:33Z</time>
+      <name>Strada123</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.042856084182858" lon="7.874015662819147">
+      <ele>290.05859375</ele>
+      <time>2012-10-15T13:49:26Z</time>
+      <name>Strada90</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD001A0095060D200500CD076B99</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.043005868792534" lon="7.872947053983808">
+      <ele>292</ele>
+      <time>2012-10-15T13:49:29Z</time>
+      <name>Sentiero473</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>1100BD5FFD00130095060D200500D4073999</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.042175054550171" lon="7.872905731201172">
+      <ele>290.8984375</ele>
+      <time>2012-10-15T13:49:30Z</time>
+      <name>Sentiero e Strada Del Bussetto</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0000BD5FFD00130095060F200500AD073899</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.042091822251678" lon="7.871667640283704">
+      <ele>303.6640625</ele>
+      <time>2012-10-15T13:49:33Z</time>
+      <name>Strada Del Bussetto</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>1100BD5FFD00140095060D200500A907FE98</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.041928291320801" lon="7.869236469268799">
+      <ele>323</ele>
+      <time>2012-10-15T13:49:37Z</time>
+      <name>Strada Della Costa e Strada Del Bussetto e Sentiero1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.0414396263659" lon="7.869812222197652">
+      <ele>324.6171875</ele>
+      <time>2012-10-15T13:49:38Z</time>
+      <name>Sentiero474</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>1100BD5FFD00160095060D2005008B07A798</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.040844762697816" lon="7.869534278288484">
+      <ele>324.3515625</ele>
+      <time>2012-10-15T13:49:40Z</time>
+      <name>Sentiero475</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>1100BD5FFD00160095060D2005006F079A98</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.04028451628983" lon="7.869984302669764">
+      <ele>325.16015625</ele>
+      <time>2012-10-15T13:49:41Z</time>
+      <name>Sentiero476</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>1100BD5FFD00160095060D2005005507AF98</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.039972541853786" lon="7.870810674503446">
+      <ele>321.984375</ele>
+      <time>2012-10-15T13:49:43Z</time>
+      <name>Sentiero477</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>1100BD5FFD00160095060D2005004607D698</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.038377046585083" lon="7.872256636619568">
+      <ele>298.18359375</ele>
+      <time>2012-10-15T13:49:45Z</time>
+      <name>Strada e Sentiero17</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.0381482206285" lon="7.872450342401862">
+      <ele>297.078125</ele>
+      <time>2012-10-15T14:11:15Z</time>
+      <name>Strada93</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD000B0095060D200500F3060399</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.037595769390464" lon="7.872964153066278">
+      <ele>294.3984375</ele>
+      <time>2012-10-15T14:11:17Z</time>
+      <name>Strada94</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD000B0095060D200500DA061999</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.037133088335395" lon="7.873083679005504">
+      <ele>295.1875</ele>
+      <time>2012-10-15T14:14:19Z</time>
+      <name>Strada95</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD001E0095060D200500CC060899</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.036842990666628" lon="7.871766211465001">
+      <ele>294.203125</ele>
+      <time>2012-10-15T14:14:20Z</time>
+      <name>Corso Vittorio Emanuele</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD000F0095060D200500B5060299</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.035490989685059" lon="7.868152856826782">
+      <ele>280.05859375</ele>
+      <time>2012-10-15T14:14:29Z</time>
+      <name>Corso Vittorio Emanuele e Strada Cesole e Via F. Piovano1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.036480557173491" lon="7.867539720609784">
+      <ele>282.71484375</ele>
+      <time>2012-10-15T14:14:45Z</time>
+      <name>Via F. Piovano</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD0052005A060D200500A4063D98</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.036987662315369" lon="7.868646383285523">
+      <ele>284.671875</ele>
+      <time>2012-10-15T14:14:48Z</time>
+      <name>Andezeno (306m)</name>
+      <sym>City (Small)</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0B00BD5FFD0005005A060500000000000000</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.037245154380798" lon="7.869231104850769">
+      <ele>287.296875</ele>
+      <time>2012-10-15T14:14:57Z</time>
+      <name>Via Cavour e Via a. Coppi e Via Ormea</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0000BD5FFD0016005A060F200500C7068C98</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.03720223903656" lon="7.867761254310608">
+      <ele>282.140625</ele>
+      <time>2012-10-15T14:15:04Z</time>
+      <name>Via Cavour e Via Abate Villa</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0000BD5FFD0016005A060F200500C5064898</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.037014484405518" lon="7.866774201393127">
+      <ele>284.703125</ele>
+      <time>2012-10-15T14:15:24Z</time>
+      <name>Via Cavour e Strada</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0000BD5FFD0016005A060F200500BD061A98</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.036413669586182" lon="7.866570353507996">
+      <ele>282.4609375</ele>
+      <time>2012-10-15T14:15:26Z</time>
+      <name>Via a. Coppi e Via Casana</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0000BD5FFD0017005A060F200500A1061098</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.035383701324463" lon="7.866817116737366">
+      <ele>278.83203125</ele>
+      <time>2012-10-15T14:15:27Z</time>
+      <name>Corso Vittorio Emanuele e Via Casana</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0000BD5FFD0023005A060F20050071061C98</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.035490989685059" lon="7.868152856826782">
+      <ele>280.05859375</ele>
+      <time>2012-10-15T14:15:35Z</time>
+      <name>Corso Vittorio Emanuele e Strada Cesole e Via F. Piovano11</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.034262537956238" lon="7.869359850883484">
+      <ele>286</ele>
+      <time>2012-10-15T14:15:39Z</time>
+      <name>Andezeno</name>
+      <cmt>Andezeno
+
+Strada Cesole 9
+
+10020, Andezeno, Piemonte, Italia
+
++(39)-(011)-9434249</cmt>
+      <desc>Andezeno
+
+Strada Cesole 9
+
+10020, Andezeno, Piemonte, Italia
+
++(39)-(011)-9434249</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>2F28BD5FFD0006005A061400000000000000</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.032819509506226" lon="7.870368361473084">
+      <ele>276.10546875</ele>
+      <time>2012-10-15T14:15:41Z</time>
+      <name>Strada Cesole e Strada1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.031912168487906" lon="7.871547276154161">
+      <ele>276.31640625</ele>
+      <time>2012-10-15T14:15:43Z</time>
+      <name>Strada Cesole1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD000D0095060D200500CF05F898</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.030369898304343" lon="7.8723637573421">
+      <ele>278.43359375</ele>
+      <time>2012-10-15T14:15:44Z</time>
+      <name>Strada Cesole2</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD000D0095060D20050087051E99</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.029106829315424" lon="7.872616052627564">
+      <ele>274</ele>
+      <time>2012-10-15T14:15:45Z</time>
+      <name>Strada Cesole3</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.028370479121804" lon="7.872563833370805">
+      <ele>274.546875</ele>
+      <time>2012-10-15T14:15:49Z</time>
+      <name>Strada Cesole4</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD000D0095060D2005002A052899</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.027229785919189" lon="7.871719524264336">
+      <ele>274.20703125</ele>
+      <time>2012-10-15T14:15:50Z</time>
+      <name>Strada Cesole5</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD000D0095060D200500F4040099</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.025754570960999" lon="7.871730923652649">
+      <ele>274</ele>
+      <time>2012-10-15T14:15:51Z</time>
+      <name>Strada Cesole e Strada Della Sabbia1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.025452570989728" lon="7.870294349268079">
+      <ele>273.4140625</ele>
+      <time>2012-10-15T14:15:53Z</time>
+      <name>Strada Cesole6</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD001D005A060D200500A204BE98</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.024999864399433" lon="7.869084505364299">
+      <ele>273.2421875</ele>
+      <time>2012-10-15T14:15:54Z</time>
+      <name>Strada Cesole7</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD001D005A060D2005008D048598</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.024944543838501" lon="7.866645455360413">
+      <ele>274</ele>
+      <time>2012-10-15T14:15:55Z</time>
+      <name>Strada Cesole e Strada non asfaltata1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.023593213409185" lon="7.865664688870311">
+      <ele>274.3984375</ele>
+      <time>2012-10-15T14:15:57Z</time>
+      <name>Strada non asfaltata13</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0A00BD5FFD002C00A8060D2005004B04E697</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.02283800393343" lon="7.864709571003914">
+      <ele>270.58203125</ele>
+      <time>2012-10-15T14:15:58Z</time>
+      <name>Strada non asfaltata14</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.019939374178648" lon="7.865230338647962">
+      <ele>272.4921875</ele>
+      <time>2012-10-15T14:16:01Z</time>
+      <name>Strada non asfaltata15</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0A00BD5FFD002C00A8060D200500A103D297</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.014612674713135" lon="7.867482304573059">
+      <ele>269.25390625</ele>
+      <time>2012-10-15T14:16:04Z</time>
+      <name>Via Buttigliera e Strada non asfaltata1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.01421419903636" lon="7.864795150235295">
+      <ele>274</ele>
+      <time>2012-10-15T14:16:06Z</time>
+      <name>Via Buttigliera3</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0A00BD5FFD000600A8060D2005009602BE97</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.014159297570586" lon="7.863292023539543">
+      <ele>273.9296875</ele>
+      <time>2012-10-15T14:16:08Z</time>
+      <name>Via Buttigliera4</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD000900A8060D20050093027797</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.014232471585274" lon="7.859703479334712">
+      <ele>274.8046875</ele>
+      <time>2012-10-15T14:16:11Z</time>
+      <name>Via Buttigliera5</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.013907672837377" lon="7.856432273983955">
+      <ele>274.12109375</ele>
+      <time>2012-10-15T14:16:14Z</time>
+      <name>Via Buttigliera6</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD000900A8060D20050088023896</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.013868361711502" lon="7.855191668495536">
+      <ele>275.6875</ele>
+      <time>2012-10-15T14:16:15Z</time>
+      <name>Via Buttigliera7</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0600BD5FFD000900A8060D2005008602FE95</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.013051629066467" lon="7.853706479072571">
+      <ele>274.83984375</ele>
+      <time>2012-10-15T14:16:17Z</time>
+      <name>Via Buttigliera8</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0000BD5FFD005D00A8060F2005006002B995</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.013051629066467" lon="7.853706479072571">
+      <ele>274.83984375</ele>
+      <time>2012-10-15T14:16:22Z</time>
+      <name>Via Buttigliera81</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.012869238853455" lon="7.853271961212158">
+      <ele>275</ele>
+      <time>2012-10-15T14:17:14Z</time>
+      <name>Via Buttigliera11</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.012542679905891" lon="7.852353975176811">
+      <ele>274.03515625</ele>
+      <time>2012-10-15T14:17:17Z</time>
+      <name>Via Buttigliera9</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD001B00A8060D20050048027A95</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.011990396305919" lon="7.851435318589211">
+      <ele>275.8984375</ele>
+      <time>2012-10-15T14:17:19Z</time>
+      <name>Via Buttigliera10</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD001B00A8060D2005002E024F95</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.011458396911621" lon="7.848765850067139">
+      <ele>278.20703125</ele>
+      <time>2012-10-15T14:17:24Z</time>
+      <name>Via Buttigliera12</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0000BD5FFD001B00A8060F2005001602D394</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.010938467457891" lon="7.844767849892378">
+      <ele>277.17578125</ele>
+      <time>2012-10-15T14:17:25Z</time>
+      <name>Via Buttigliera21</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.010481821373105" lon="7.842408511787653">
+      <ele>280.92578125</ele>
+      <time>2012-10-15T14:17:26Z</time>
+      <name>Via Buttigliera13</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0500BD5FFD001B00A8060D200500E801AA93</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.010723471641541" lon="7.833546996116638">
+      <ele>281.03125</ele>
+      <time>2012-10-15T14:17:33Z</time>
+      <name>Rossi Riccardo1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.008588433265686" lon="7.834147810935974">
+      <ele>281.3359375</ele>
+      <time>2012-10-15T14:17:38Z</time>
+      <name>Corso Giacomo Matteotti e Via Luigi Pirandello e Via Giambattista Bogino1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.008545517921448" lon="7.83325731754303">
+      <ele>282.09375</ele>
+      <time>2012-10-15T14:17:44Z</time>
+      <name>Via Giambattista Bogino e Via Alcide de Gasperi</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>0000BD5FFD00440098060F2005008E010092</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.008304119110107" lon="7.831835746765137">
+      <ele>282.8359375</ele>
+      <time>2012-10-15T14:17:46Z</time>
+      <name>Via Giambattista Bogino1</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="45.008292971178889" lon="7.829111041501164">
+      <time>2012-10-28T08:52:03Z</time>
+      <name>Via Vittorio Emanuele II, 80 – 10023 CHIERI (TO)</name>
+      <cmt>Latitude: 45.00829297 Longitude : 7.829111042</cmt>
+      <desc>Latitude: 45.00829297 Longitude : 7.829111042</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+  </rte>
+
+</gpx>
